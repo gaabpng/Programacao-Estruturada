@@ -1,0 +1,5 @@
+/home/gaab/CLionProjects/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_01.dir
+/home/gaab/CLionProjects/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_02.dir
+/home/gaab/CLionProjects/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_03.dir
+/home/gaab/CLionProjects/Programacao-Estruturada/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gaab/CLionProjects/Programacao-Estruturada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
