@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/00_02.dir/Lista0/PE_02.c.o -o 00_02
