@@ -1,9 +1,0 @@
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_01.dir
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_02.dir
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_03.dir
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_04.dir
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_05.dir
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_06.dir
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/00_07.dir
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/gaab/Programacao-Estruturada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
