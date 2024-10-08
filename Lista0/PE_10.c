@@ -8,4 +8,5 @@ int main(void){
 
   float farenheit = (temperatura * 9.0 / 5) + 32;
   printf("Temperatura em Farenheit: %.2f", farenheit);
+  return 0;
 }

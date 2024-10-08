@@ -15,4 +15,5 @@ int main(void) {
     segundo = segundo + (minuto * 60);
 
     printf("Segundos totais = %d", segundo);
+    return 0;
 }

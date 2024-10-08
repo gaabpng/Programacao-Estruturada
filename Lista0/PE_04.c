@@ -16,4 +16,5 @@ int main(void){
   total = salario + adicional;
 
   printf("O salário total do vendedor é: R$%.2f",total);
+  return 0;
 }

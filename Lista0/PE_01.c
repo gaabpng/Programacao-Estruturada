@@ -7,15 +7,16 @@ int main(void) {
     double perimetro;
 
     printf("Informe a altura do retângulo: ");
-    scanf("%lf", &altura);  // Usar %lf para leitura de double
+    scanf("%lf", &altura);
 
     printf("Informe a largura do retângulo: ");
-    scanf("%lf", &largura);  // Usar %lf para leitura de double
+    scanf("%lf", &largura);
 
     area = altura * largura;
     perimetro = 2 * (altura + largura);
 
-    // Exibindo com 2 casas decimais
     printf("Área: %.2f \n", area);
     printf("Perímetro: %.2f\n", perimetro);
+
+    return 0;
 }

@@ -13,4 +13,5 @@ int main(void) {
 
     total = (salario / 10.0) * consumo;
     printf("Total a pagar: R$%.2f", total);
+    return 0;
 }

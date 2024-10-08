@@ -19,4 +19,6 @@ int main(void) {
 
     printf("Nome: %s\n", nome);
     printf("Total a pagar: %.2f", total);
+
+    return 0;
 }

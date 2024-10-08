@@ -9,4 +9,5 @@ int main(void) {
     float desconto = salario * 0.1;
 
     printf("Salario com desconto: %.2f", salario - desconto);
+    return 0;
 }

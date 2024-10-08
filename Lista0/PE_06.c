@@ -13,4 +13,5 @@ int main(void) {
 
     printf("Total a pagar: %.2f \n", total);
     printf("Restará de seu salário: %.2f", salario-total);
+    return 0;
 }
