@@ -9,8 +9,6 @@ add_executable(sala_02 EmSala/sala_02.c)
 add_executable(sala_03 EmSala/sala_03.c)
 add_executable(sala_04 EmSala/sala_04.c)
 
-
-
 # Lista 0
 add_executable(00_01 Lista0/PE_01.c)
 add_executable(00_02 Lista0/PE_02.c)
@@ -25,3 +23,11 @@ add_executable(00_10 Lista0/PE_10.c)
 add_executable(00_11 Lista0/PE_11.c)
 add_executable(00_12 Lista0/PE_12.c)
 add_executable(00_13 Lista0/PE_13.c)
+
+
+# Lista 1
+add_executable(01_01 Lista1/PE_01)
+add_executable(01_02 Lista1/PE_02)
+add_executable(01_03 Lista1/PE_03)
+add_executable(01_04 Lista1/PE_04)
+add_executable(01_05 Lista1/PE_05)
