@@ -8,6 +8,8 @@ add_executable(sala_01 EmSala/sala_01.c)
 add_executable(sala_02 EmSala/sala_02.c)
 add_executable(sala_03 EmSala/sala_03.c)
 add_executable(sala_04 EmSala/sala_04.c)
+add_executable(menu EmSala/menu/menu.c)
+add_executable(menu_01 EmSala/recursividade.c)
 
 # Lista 0
 add_executable(00_01 Lista0/PE_01.c)
